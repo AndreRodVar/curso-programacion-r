@@ -10,14 +10,15 @@ Autor/a: Carlos Andre Rodriguez Vargas
 - Archivo: nfl_data.csv del repositorio phcs971/nfl-draft-dataset
   (licencia MIT), leído desde una URL fijada a la versión 54730ea.
 - Contenido:filas= 14,163 y columnas= 59
-- Base de análisis: [quiénes entran y son 14,163 jugadores]
+- Base de análisis: Solo jugadores elegidos en el Draft del 2000 al 2014 y son 3232
 
 ## Variables principales
 - Éxito observado: (career_av) mide:lo que paso en la carrera del jugador
 - Predictores: (Estatura, peso, tiempo en 40 yardas, posición) Se conocen para saber las capacidades atleticas de los jugadores.
 
 ## Decisiones de limpieza
-1. [decisión y razón]
+1. Eliminar los registros incompletos, lo que evita sesgos
+    y garantiza que el promedio sea representativo.
 2. ...
 
 ## Carpetas
