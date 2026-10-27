@@ -9,7 +9,7 @@ Autor/a: Carlos Andre Rodriguez Vargas
 ## Datos
 - Archivo: nfl_data.csv del repositorio phcs971/nfl-draft-dataset
   (licencia MIT), leído desde una URL fijada a la versión 54730ea.
-- Contenido: [qué contiene, cuántas filas y columnas]
+- Contenido: [qué contiene, cuántas filas y columnas
 - Base de análisis: [quiénes entran y cuántos son]
 
 ## Variables principales
